@@ -16,11 +16,11 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Experience
-    url: '#Experience'
-    weight: 50
   - name: Resources
     url: '#resources'
+    weight: 50
+  - name: Experience
+    url: '#Experience'
     weight: 60
   - name: Contact
     url: '#contact'

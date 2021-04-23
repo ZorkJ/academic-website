@@ -137,9 +137,8 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: "main"
-  publish_mode = "editorial_workflow"
-  local_backend: true
+  branch: master
+  local_backend: false
 icon:
   pack:
     ai: true

@@ -139,7 +139,7 @@ marketing:
 cms:
   branch: "main"
   publish_mode = "editorial_workflow"
-  local_backend: true
+  local_backend: false
 icon:
   pack:
     ai: true
