@@ -5,7 +5,7 @@
 
 title: Lei Huang's Website # Website name
 baseurl: 'https://hlei.netlify.app/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
