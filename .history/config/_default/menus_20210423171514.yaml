@@ -19,9 +19,9 @@ main:
   - name: Resources
     url: '#resources'
     weight: 50
-  - name: Experience
-    url: '#Experience'
-    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 50

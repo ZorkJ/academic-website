@@ -7,21 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 20
-  - name: Research
-    url: '#research'
-    weight: 30
-  - name: Teaching
-    url: '#teaching'
-    weight: 40
   - name: Resources
     url: '#resources'
-    weight: 50
-  - name: Experience
-    url: '#Experience'
-    weight: 60
+    weight: 40
+  - name: Research
+    url: '#research'
+    weight: 20
+  - name: Teaching
+    url: '#teaching'
+    weight: 30
+  - name: Resources
+    url: '#resources'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
